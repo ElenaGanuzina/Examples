@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\bin\Debug\net6.0\Ex006_Max.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\bin\Debug\net6.0\Ex006_Max.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\bin\Debug\net6.0\Ex006_Max.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\bin\Debug\net6.0\Ex006_Max.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\bin\Debug\net6.0\Ex006_Max.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\refint\Ex006_Max.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\Ex006_Max.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex006_Max\obj\Debug\net6.0\ref\Ex006_Max.dll
