@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\bin\Debug\net6.0\Ex005_SpecialGreeting.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\bin\Debug\net6.0\Ex005_SpecialGreeting.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\bin\Debug\net6.0\Ex005_SpecialGreeting.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\bin\Debug\net6.0\Ex005_SpecialGreeting.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\bin\Debug\net6.0\Ex005_SpecialGreeting.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\refint\Ex005_SpecialGreeting.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\Ex005_SpecialGreeting.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex005_SpecialGreeting\obj\Debug\net6.0\ref\Ex005_SpecialGreeting.dll
