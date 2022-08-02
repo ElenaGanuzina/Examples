@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\bin\Debug\net6.0\Ex001_HelloCosole.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\bin\Debug\net6.0\Ex001_HelloCosole.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\bin\Debug\net6.0\Ex001_HelloCosole.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\bin\Debug\net6.0\Ex001_HelloCosole.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\bin\Debug\net6.0\Ex001_HelloCosole.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\refint\Ex001_HelloCosole.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\Ex001_HelloCosole.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex001_HelloCosole\obj\Debug\net6.0\ref\Ex001_HelloCosole.dll
