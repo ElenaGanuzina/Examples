@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\bin\Debug\net6.0\Ex007_CyclleWihile.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\bin\Debug\net6.0\Ex007_CyclleWihile.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\bin\Debug\net6.0\Ex007_CyclleWihile.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\bin\Debug\net6.0\Ex007_CyclleWihile.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\bin\Debug\net6.0\Ex007_CyclleWihile.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\refint\Ex007_CyclleWihile.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\Ex007_CyclleWihile.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Examples\Ex007_CyclleWihile\obj\Debug\net6.0\ref\Ex007_CyclleWihile.dll
